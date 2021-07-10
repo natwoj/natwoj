@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia from Katowice, Poland.
-- 👀 I’m interested in HTML,CSS,JS, digital marketing
-- 🌱 I’m currently learning JavaScript. 
-- 💞️ I’m looking to collaborate on projects to portfolio. 
-- 📫 How to reach me info@nwojcik.com
+- 👀 Interested in HTML,CSS,JS, digital marketing
+- 🌱 Currently learning JavaScript. 
+- 💞️ Looking for opportunities to collaborate on projects to portfolio. 
+- 📫 Reach me: info@nwojcik.com
