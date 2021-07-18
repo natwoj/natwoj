@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalia from Katowice, Poland.
-- 👀 Interested in HTML,CSS,JS,digital marketing, wordpress.
-- 🌱 Currently learning JavaScript in the looong way on front-end roadmap. 
+- 👀 Interested in HTML, CSS, JS, digital marketing, Wordpress.
+- 🌱 Currently in 2021 on the STOP named: JavaScript in the looong way on front-end roadmap. 
 - 💞️ Looking for opportunities to collaborate on projects to portfolio or mentorship in js. 
 - 📫 Reach me: info@nwojcik.com
