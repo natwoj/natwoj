@@ -2,6 +2,7 @@
 - 👀 Interested in HTML, CSS, JS, new technologies, Wordpress, digital marketing, self-development and many many more!
 - 🌱 2021: Responsive Web Design - freecodecamp.org 
 - 🌱 2021/2022 JavaScript Algorithms and Data Structures on freecodecamp.org
+- 🌱 2022: Cloud solutions creation & development 
 - 🌱 2022: 3-months INCODE DEV course at INCO ACADEMY 🧑‍💻 Stack: JavaScript, jQuery, Express, NodeJS, RWD, HTML5, CSS3, Typescript, React.js, Mustache.js, Git, Github, bash, zsh.
 - 📫 Reach me: info@nwojcik.com
 - 🐦 My learning path on Twitter @natwojcik_. Link in profile. <br><br>
